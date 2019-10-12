@@ -1,0 +1,704 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: waxo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-19 09:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: archive-portfolio.php:56 blogen/archive-portfolio.php:56
+#: templates/home-portfolio-template.php:72
+msgid " "
+msgstr ""
+
+#: include/config-comment.php:31 blogen/include/config-comment.php:31
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: framework/config-theme-option.php:402
+#: blogen/framework/config-theme-option.php:402
+msgid "&copy; 2018. waxo - Design by Websbooster Solutions"
+msgstr ""
+
+#: comments.php:41 comments.php:55 blogen/comments.php:41
+#: blogen/comments.php:55
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: include/config-comment.php:30 blogen/include/config-comment.php:30
+msgid "(Edit)"
+msgstr ""
+
+#: framework/config-theme-option.php:276
+#: blogen/framework/config-theme-option.php:276
+msgid "+01 9876543210"
+msgstr ""
+
+#: single-portfolio.php:39 blogen/single-portfolio.php:39
+msgid ","
+msgstr ""
+
+#: framework/config-theme-option.php:370
+#: blogen/framework/config-theme-option.php:370
+msgid "400"
+msgstr ""
+
+#: framework/config-theme-option.php:345 framework/config-theme-option.php:346
+#: blogen/framework/config-theme-option.php:345
+#: blogen/framework/config-theme-option.php:346
+msgid "404 Description"
+msgstr ""
+
+#: framework/config-theme-option.php:330
+#: blogen/framework/config-theme-option.php:330
+msgid "404 Page"
+msgstr ""
+
+#: framework/config-theme-option.php:338 framework/config-theme-option.php:339
+#: blogen/framework/config-theme-option.php:338
+#: blogen/framework/config-theme-option.php:339
+msgid "404 Title"
+msgstr ""
+
+#: 404.php:18 blogen/404.php:18
+msgid "404!"
+msgstr ""
+
+#: framework/config-theme-option.php:386
+#: blogen/framework/config-theme-option.php:386
+msgid "700"
+msgstr ""
+
+#: framework/config-theme-option.php:550
+#: blogen/framework/config-theme-option.php:550
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: framework/config-theme-option.php:410
+#: blogen/framework/config-theme-option.php:410
+msgid ""
+"<p class=\"description\">This Section should be visible only in "
+"Customizer</p>"
+msgstr ""
+
+#: framework/config-theme-option.php:179
+#: blogen/framework/config-theme-option.php:179
+msgid "<p>Develop by Websbooster Solutions.</p>"
+msgstr ""
+
+#: framework/config-theme-option.php:211
+#: blogen/framework/config-theme-option.php:211
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: framework/config-theme-option.php:200 framework/config-theme-option.php:205
+#: blogen/framework/config-theme-option.php:200
+#: blogen/framework/config-theme-option.php:205
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: framework/config-demo-data.php:18 blogen/framework/config-demo-data.php:18
+msgid ""
+"After Successfully dummy data import do not need setup any other setting "
+"regarding to theme."
+msgstr ""
+
+#: archive-portfolio.php:36 blogen/archive-portfolio.php:36
+#: templates/home-portfolio-template.php:44
+msgid "All"
+msgstr ""
+
+#: include/config-breadcrumb.php:23 blogen/include/config-breadcrumb.php:23
+msgid "Archive by category \""
+msgstr ""
+
+#: include/config-breadcrumb.php:89 blogen/include/config-breadcrumb.php:89
+msgid "Articles posted by "
+msgstr ""
+
+#: single.php:124 blogen/single.php:124 post-format/post-aside.php:72
+#: post-format/post-video.php:77 post-format/post-audio.php:76
+#: post-format/post-chat.php:72 post-format/post-status.php:72
+#: post-format/post-image.php:72 post-format/post-gallery.php:72
+#: include/config-title.php:21 blogen/post-format/post-aside.php:72
+#: blogen/post-format/post-video.php:77 blogen/post-format/post-audio.php:76
+#: blogen/post-format/post-chat.php:72 blogen/post-format/post-status.php:72
+#: blogen/post-format/post-image.php:72 blogen/post-format/post-gallery.php:72
+#: blogen/include/config-title.php:21
+msgid "Author : "
+msgstr ""
+
+#: 404.php:28 blogen/404.php:28
+msgid "BACK TO HOME PAGE"
+msgstr ""
+
+#: include/config-title.php:42 include/config-breadcrumb.php:94
+#: blogen/include/config-title.php:42 blogen/include/config-breadcrumb.php:94
+msgid "Blog"
+msgstr ""
+
+#: framework/config-theme-option.php:317
+#: blogen/framework/config-theme-option.php:317
+msgid "blog-layout"
+msgstr ""
+
+#: comments.php:83 blogen/comments.php:83
+msgid "btn btn-dark"
+msgstr ""
+
+#: comments.php:81 blogen/comments.php:81
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:39 comments.php:53 blogen/comments.php:39
+#: blogen/comments.php:53 include/template-tags.php:23
+#: blogen/include/template-tags.php:23
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:77 blogen/comments.php:77
+msgid "commentform"
+msgstr ""
+
+#: single.php:130 blogen/single.php:130 post-format/post-aside.php:78
+#: post-format/post-video.php:83 post-format/post-audio.php:82
+#: post-format/post-chat.php:78 post-format/post-status.php:78
+#: post-format/post-image.php:78 post-format/post-gallery.php:78
+#: blogen/post-format/post-aside.php:78 blogen/post-format/post-video.php:83
+#: blogen/post-format/post-audio.php:82 blogen/post-format/post-chat.php:78
+#: blogen/post-format/post-status.php:78 blogen/post-format/post-image.php:78
+#: blogen/post-format/post-gallery.php:78
+msgid "Comments : "
+msgstr ""
+
+#: comments.php:68 blogen/comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:32 blogen/comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/config-theme-plugin.php:12
+#: blogen/framework/config-theme-plugin.php:12
+msgid "Contact Form 7"
+msgstr ""
+
+#: framework/config-theme-plugin.php:13
+#: blogen/framework/config-theme-plugin.php:13
+msgid "contact-form-7"
+msgstr ""
+
+#. %s: Name of current post
+#: include/template-tags.php:238 blogen/include/template-tags.php:238
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: framework/config-theme-option.php:400 framework/config-theme-option.php:401
+#: blogen/framework/config-theme-option.php:400
+#: blogen/framework/config-theme-option.php:401
+msgid "Copyright Text"
+msgstr ""
+
+#: framework/config-theme-option.php:409
+#: blogen/framework/config-theme-option.php:409
+msgid "Customizer Only"
+msgstr ""
+
+#: framework/config-theme-option.php:416
+#: blogen/framework/config-theme-option.php:416
+msgid "Customizer Only Option"
+msgstr ""
+
+#: framework/config-theme-option.php:183
+#: blogen/framework/config-theme-option.php:183
+msgid "Develop by Websbooster Solutions."
+msgstr ""
+
+#: framework/config-theme-option.php:434
+#: blogen/framework/config-theme-option.php:434
+msgid "Documentation"
+msgstr ""
+
+#: framework/config-theme-option.php:355
+#: blogen/framework/config-theme-option.php:355
+msgid "el el-font"
+msgstr ""
+
+#: framework/config-theme-option.php:314
+#: blogen/framework/config-theme-option.php:314
+msgid "el el-list"
+msgstr ""
+
+#: framework/config-theme-option.php:281
+#: blogen/framework/config-theme-option.php:281
+msgid "Email ID"
+msgstr ""
+
+#: framework/config-theme-option.php:282
+#: blogen/framework/config-theme-option.php:282
+msgid "Enter Topbar Email ID"
+msgstr ""
+
+#: framework/config-theme-option.php:275
+#: blogen/framework/config-theme-option.php:275
+msgid "Enter Topbar Phone No"
+msgstr ""
+
+#: include/config-title.php:36 include/config-breadcrumb.php:92
+#: blogen/include/config-title.php:36 blogen/include/config-breadcrumb.php:92
+msgid "Error 404"
+msgstr ""
+
+#: framework/config-theme-option.php:347
+#: blogen/framework/config-theme-option.php:347
+msgid "Error page description"
+msgstr ""
+
+#: framework/config-theme-option.php:303
+#: blogen/framework/config-theme-option.php:303
+msgid "Favicon Logo"
+msgstr ""
+
+#: include/template-tags.php:49 blogen/include/template-tags.php:49
+msgid "Featured"
+msgstr ""
+
+#: include/config-widget.php:15 framework/config-theme-option.php:392
+#: blogen/include/config-widget.php:15
+#: blogen/framework/config-theme-option.php:392
+msgid "Footer"
+msgstr ""
+
+#: framework/config-theme-option.php:234
+#: blogen/framework/config-theme-option.php:234
+msgid "General"
+msgstr ""
+
+#: framework/config-theme-option.php:261
+#: blogen/framework/config-theme-option.php:261
+msgid "Header"
+msgstr ""
+
+#. Name of the template
+msgid "Home Portfolio"
+msgstr ""
+
+#. Name of the template
+msgid "Home Template"
+msgstr ""
+
+#. URI of the theme
+msgid "http://Websboostersolutions.com/wp/waxo/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/Websboostersolutions"
+msgstr ""
+
+#: framework/config-theme-option.php:318
+#: blogen/framework/config-theme-option.php:318
+msgid "image_select"
+msgstr ""
+
+#: post-format/post-none.php:28 blogen/post-format/post-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: framework/config-theme-option.php:369
+#: blogen/framework/config-theme-option.php:369
+msgid "Lato"
+msgstr ""
+
+#. %s: post title
+#: include/template-tags.php:123 blogen/include/template-tags.php:123
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: comments.php:80 blogen/comments.php:80
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: framework/config-theme-option.php:294
+#: blogen/framework/config-theme-option.php:294
+msgid "Logo"
+msgstr ""
+
+#: header.php:124 header.php:126 blogen/header.php:124 blogen/header.php:126
+msgid "logo"
+msgstr ""
+
+#: framework/config-theme-option.php:288
+#: blogen/framework/config-theme-option.php:288
+msgid "Logo Setting"
+msgstr ""
+
+#: framework/config-theme-plugin.php:17
+#: blogen/framework/config-theme-plugin.php:17
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: framework/config-theme-plugin.php:18
+#: blogen/framework/config-theme-plugin.php:18
+msgid "mailchimp-for-wp"
+msgstr ""
+
+#: comments.php:84 blogen/comments.php:84
+msgid "mt-4"
+msgstr ""
+
+#: include/template-tags.php:30 blogen/include/template-tags.php:30
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:56 blogen/comments.php:42
+#: blogen/comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: post-format/post-none.php:20 blogen/post-format/post-none.php:20
+msgid "Nothing Found Here"
+msgstr ""
+
+#: include/template-tags.php:26 blogen/include/template-tags.php:26
+msgid "Older Comments"
+msgstr ""
+
+#: framework/config-theme-plugin.php:27
+#: blogen/framework/config-theme-plugin.php:27
+msgid "One Click Demo Import"
+msgstr ""
+
+#: framework/config-theme-plugin.php:28
+#: blogen/framework/config-theme-plugin.php:28
+msgid "one-click-demo-import"
+msgstr ""
+
+#: include/config-breadcrumb.php:99 blogen/include/config-breadcrumb.php:99
+msgid "Page"
+msgstr ""
+
+#: framework/config-theme-option.php:274
+#: blogen/framework/config-theme-option.php:274
+msgid "Phone No"
+msgstr ""
+
+#: framework/config-theme-option.php:385
+#: blogen/framework/config-theme-option.php:385
+msgid "Poppins"
+msgstr ""
+
+#: comments.php:82 blogen/comments.php:82
+msgid "Post Comment"
+msgstr ""
+
+#: include/config-breadcrumb.php:84 blogen/include/config-breadcrumb.php:84
+msgid "Posts tagged \""
+msgstr ""
+
+#: framework/config-theme-option.php:360
+#: blogen/framework/config-theme-option.php:360
+msgid "Primary Font"
+msgstr ""
+
+#: include/config-menu.php:6 blogen/include/config-menu.php:6
+msgid "Primary Menu"
+msgstr ""
+
+#: framework/config-theme-option.php:358
+#: blogen/framework/config-theme-option.php:358
+msgid "primary_font"
+msgstr ""
+
+#: post-format/post-aside.php:56 post-format/post-video.php:61
+#: post-format/post-audio.php:60 post-format/post-chat.php:56
+#: post-format/post-status.php:56 post-format/post-standard.php:56
+#: post-format/post-image.php:56 post-format/post-gallery.php:56
+#: blogen/post-format/post-aside.php:56 blogen/post-format/post-video.php:61
+#: blogen/post-format/post-audio.php:60 blogen/post-format/post-chat.php:56
+#: blogen/post-format/post-status.php:56
+#: blogen/post-format/post-standard.php:56 blogen/post-format/post-image.php:56
+#: blogen/post-format/post-gallery.php:56
+msgid "Read More..."
+msgstr ""
+
+#: post-format/post-none.php:23 blogen/post-format/post-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: framework/config-theme-plugin.php:22
+#: blogen/framework/config-theme-plugin.php:22
+msgid "Redux Framework"
+msgstr ""
+
+#: framework/config-theme-plugin.php:23
+#: blogen/framework/config-theme-plugin.php:23
+msgid "redux-framework"
+msgstr ""
+
+#: framework/config-theme-option.php:325
+#: blogen/framework/config-theme-option.php:325
+msgid "right-sidebar"
+msgstr ""
+
+#: include/config-title.php:13 blogen/include/config-title.php:13
+msgid "Search : "
+msgstr ""
+
+#: include/config-breadcrumb.php:26 blogen/include/config-breadcrumb.php:26
+msgid "Search results for \""
+msgstr ""
+
+#: framework/config-theme-option.php:376
+#: blogen/framework/config-theme-option.php:376
+msgid "Secondary Font"
+msgstr ""
+
+#: framework/config-theme-option.php:374
+#: blogen/framework/config-theme-option.php:374
+msgid "secondary_font"
+msgstr ""
+
+#: framework/config-theme-option.php:549
+#: blogen/framework/config-theme-option.php:549
+msgid "Section via hook"
+msgstr ""
+
+#: framework/config-theme-option.php:361
+#: blogen/framework/config-theme-option.php:361
+msgid "Select the Property of Primary font"
+msgstr ""
+
+#: framework/config-theme-option.php:377
+#: blogen/framework/config-theme-option.php:377
+msgid "Select the Property of Secondary font"
+msgstr ""
+
+#: framework/config-theme-option.php:243
+#: blogen/framework/config-theme-option.php:243
+msgid "Set a theme color (default: #ff6e7f)."
+msgstr ""
+
+#: framework/config-theme-option.php:250
+#: blogen/framework/config-theme-option.php:250
+msgid "Set a theme Gradient Color"
+msgstr ""
+
+#: framework/config-theme-option.php:312
+#: blogen/framework/config-theme-option.php:312
+msgid "Sidebar"
+msgstr ""
+
+#: framework/config-theme-option.php:313
+#: blogen/framework/config-theme-option.php:313
+msgid "sidebar"
+msgstr ""
+
+#: include/config-widget.php:5 blogen/include/config-widget.php:5
+msgid "Sidebar Default"
+msgstr ""
+
+#: framework/config-theme-option.php:319
+#: blogen/framework/config-theme-option.php:319
+msgid "Sidebar Layout"
+msgstr ""
+
+#. Name of the template
+msgid "Single Blog Template"
+msgstr ""
+
+#: post-format/post-none.php:25 blogen/post-format/post-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: framework/config-theme-option.php:340
+#: blogen/framework/config-theme-option.php:340
+msgid "Sorry, Page Not Found"
+msgstr ""
+
+#: comments.php:78 blogen/comments.php:78
+msgid "submit"
+msgstr ""
+
+#: include/config-title.php:16 blogen/include/config-title.php:16
+msgid "Tag : "
+msgstr ""
+
+#: single.php:109 blogen/single.php:109
+msgid "Tags : "
+msgstr ""
+
+#: framework/config-theme-option.php:418
+#: blogen/framework/config-theme-option.php:418
+msgid "The field desc is NOT visible in customizer."
+msgstr ""
+
+#: framework/config-theme-option.php:417
+#: blogen/framework/config-theme-option.php:417
+msgid "The subtitle is NOT visible in customizer"
+msgstr ""
+
+#: framework/config-theme-option.php:242
+#: blogen/framework/config-theme-option.php:242
+msgid "Theme Color"
+msgstr ""
+
+#: framework/config-theme-option.php:249
+#: blogen/framework/config-theme-option.php:249
+msgid "Theme Gradient Color"
+msgstr ""
+
+#: framework/config-theme-option.php:199
+#: blogen/framework/config-theme-option.php:199
+msgid "Theme Information 1"
+msgstr ""
+
+#: framework/config-theme-option.php:204
+#: blogen/framework/config-theme-option.php:204
+msgid "Theme Information 2"
+msgstr ""
+
+#: comments.php:21 blogen/comments.php:21
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: framework/config-theme-option.php:269
+#: blogen/framework/config-theme-option.php:269
+msgid "Topbar Setting"
+msgstr ""
+
+#: framework/config-theme-option.php:352
+#: blogen/framework/config-theme-option.php:352
+msgid "Typography"
+msgstr ""
+
+#: framework/config-theme-option.php:359 framework/config-theme-option.php:375
+#: blogen/framework/config-theme-option.php:359
+#: blogen/framework/config-theme-option.php:375
+msgid "typography"
+msgstr ""
+
+#: include/template-tags.php:94 blogen/include/template-tags.php:94
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: include/template-tags.php:113 blogen/include/template-tags.php:113
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#: include/template-tags.php:85 blogen/include/template-tags.php:85
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: include/template-tags.php:55 blogen/include/template-tags.php:55
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#: include/template-tags.php:76 blogen/include/template-tags.php:76
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: include/template-tags.php:102 blogen/include/template-tags.php:102
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: include/template-tags.php:91 include/template-tags.php:99
+#: blogen/include/template-tags.php:91 blogen/include/template-tags.php:99
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: single.php:127 blogen/single.php:127 post-format/post-aside.php:75
+#: post-format/post-video.php:80 post-format/post-audio.php:79
+#: post-format/post-chat.php:75 post-format/post-status.php:75
+#: post-format/post-image.php:75 post-format/post-gallery.php:75
+#: blogen/post-format/post-aside.php:75 blogen/post-format/post-video.php:80
+#: blogen/post-format/post-audio.php:79 blogen/post-format/post-chat.php:75
+#: blogen/post-format/post-status.php:75 blogen/post-format/post-image.php:75
+#: blogen/post-format/post-gallery.php:75
+msgid "Views : "
+msgstr ""
+
+#. Name of the theme
+#: framework/config-demo-data.php:15 blogen/framework/config-demo-data.php:15
+msgid "waxo"
+msgstr ""
+
+#: framework/config-demo-data.php:8 blogen/framework/config-demo-data.php:8
+msgid "waxo Demo Import"
+msgstr ""
+
+#: framework/config-theme-plugin.php:32
+#: blogen/framework/config-theme-plugin.php:32
+msgid "waxo Extension"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"waxo is a Fully Responsive, Clean and Modern WordPress Theme suitable for "
+"Blogger, Individual, Traveller, Writer, Photographer."
+msgstr ""
+
+#: framework/config-theme-option.php:71 framework/config-theme-option.php:72
+#: blogen/framework/config-theme-option.php:71
+#: blogen/framework/config-theme-option.php:72
+msgid "waxo Options"
+msgstr ""
+
+#: framework/config-theme-plugin.php:33
+#: blogen/framework/config-theme-plugin.php:33
+msgid "waxo-extension"
+msgstr ""
+
+#. Author of the theme
+msgid "Websboostersolutions"
+msgstr ""
+
+#: framework/config-theme-option.php:283
+#: blogen/framework/config-theme-option.php:283
+msgid "Websboostersolutions@gmail.com"
+msgstr ""
+
+#: include/config-widget.php:7 blogen/include/config-widget.php:7
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr ""
+
+#: include/config-widget.php:17 blogen/include/config-widget.php:17
+msgid "Widgets in this area will be shown on Footer."
+msgstr ""
+
+#: include/config-comment.php:41 blogen/include/config-comment.php:41
+msgid "Your comment is awaiting moderation."
+msgstr ""
